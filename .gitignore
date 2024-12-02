@@ -1,0 +1,7 @@
+src/*
+
+!src/helloworld.c
+!src/helloworld.cpp
+!src/helloworld.py
+!src/helloworld.sh
+!src/helloworld.tex
