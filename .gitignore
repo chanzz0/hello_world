@@ -1,0 +1,11 @@
+src/*
+
+!src/helloworld.c
+!src/helloworld.cpp
+!src/helloworld.java
+!src/helloworld.py
+!src/helloworld.rs
+!src/helloworld.sh
+!src/helloworld.tex
+!src/helloworld.typ
+
